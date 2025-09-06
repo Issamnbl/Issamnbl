@@ -1,23 +1,21 @@
 <p align="center">
-  <img src="data:image/svg+xml;utf8,
-  <svg xmlns='http://www.w3.org/2000/svg' width='900' height='150'>
-    <rect width='100%' height='100%' fill='%23FFB6C1'/>
-    <text x='50%' y='50%' font-size='30' font-family='Fira Code, monospace' fill='black' dominant-baseline='middle' text-anchor='middle'>
-      👋 Hi, I'm Issa - ☕ Java Backend Developer
-    </text>
-  </svg>" alt="Hi, I'm Issa - Java Backend Developer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=E65C9C&text=Hi%20I'm%20Issa%20-%20Java%20Backend%20Developer&fontColor=000000&fontSize=45" alt="Hi I'm Issa - Java Backend Developer" />
 </p>
 
+<p align="center">
+  <a href="https://git.io/typing-svg">
+  
+  
 
 
 
 A brief description of what this project does and who it's for.
 
 ## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-A0522D?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)  
+[![linkedin](https://img.shields.io/badge/linkedin-A0522D?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)  
+[![email](https://img.shields.io/badge/email-A0522D?style=for-the-badge&logo=email&logoColor=white)](https://email.com/)
 
-[![portfolio](https://img.shields.io/badge/my_portfolio-ff69b4?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)  
-[![linkedin](https://img.shields.io/badge/linkedin-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)  
-[![twitter](https://img.shields.io/badge/twitter-ff69b4?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
 
 ## 🚀 About Me
 
@@ -26,13 +24,3 @@ I specialize in **Java**, with experience in **Spring Boot**, **REST APIs**, and
 I'm constantly learning and love working on real-world projects that solve meaningful problems.
 
 ## 🛠️ Skills
-
-```java
-// Example Java snippet
-@RestController
-public class HelloController {
-    @GetMapping("/hello")
-    public String hello() {
-        return "Hello, world!";
-    }
-}
