@@ -28,11 +28,6 @@
   I’m a curious mind, always learning and exploring how technology can solve meaningful problems.  
   I enjoy working on real-world projects and collaborating with others to create impactful solutions.
   
-  <details>
-    <summary style="cursor: pointer; font-weight: bold; color:#A0522D;">📬 Let's connect!</summary>
-    <p>Feel free to check my portfolio or connect on LinkedIn!</p>
-  </details>
-</div>
 
 
 
