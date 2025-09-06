@@ -11,10 +11,23 @@
 [![portfolio](https://img.shields.io/badge/my_portfolio-29ABE2?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/) [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prinzisa-manibale-973583346/) [![email](https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:issamanibale@gmail.com)
 
 
-<h2>🚀 About Me</h2>
+<h2 align="center">🚀 About Me</h2>
 
-<div style="background-color:#FFE4EC; padding: 20px; border-radius: 10px; line-height: 1.6; color: #4B2C2C; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
-  <strong>Hi there! I'm a <span style="color:#D36B8D;">Junior Java Backend Developer</span> 👩‍💻</strong><br><br>
+<div style="
+  background: linear-gradient(135deg, #fbe4e9 0%, #f6d2dc 100%);
+  padding: 25px;
+  border-radius: 15px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+  line-height: 1.7;
+  color: #3D2C2C;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  max-width: 800px;
+  margin: auto;
+">
+  <strong style="font-size: 1.3em;">
+    Hi there! I'm a <span style="color:#A0522D;">Junior Java Backend Developer</span> 👩‍💻
+  </strong>
+  <br><br>
 
   I’m passionate about building <strong>reliable</strong>, <strong>scalable</strong>, and <strong>efficient</strong> server-side applications.  
   My core stack includes:
@@ -27,9 +40,6 @@
 
   I’m a curious mind, always learning and exploring how technology can solve meaningful problems.  
   I enjoy working on real-world projects and collaborating with others to create impactful solutions.
-  
-
-
 
 ## 🛠️ Skills
 
