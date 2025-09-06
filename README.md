@@ -8,14 +8,33 @@
   JAVA BACKEND DEVELOPER
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-29ABE2?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/) [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/) [![email](https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![portfolio](https://img.shields.io/badge/my_portfolio-29ABE2?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/) [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prinzisa-manibale-973583346/) [![email](https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
 
-## 🚀 About Me
+<h2>🚀 About Me</h2>
 
-I'm a **Junior Java Backend Developer** with a passion for building reliable, scalable, and efficient server-side applications.  
-I specialize in **Java**, with experience in **Spring Boot**, **REST APIs**, and **SQL** databases.  
-I'm constantly learning and love working on real-world projects that solve meaningful problems.
+<div style="background-color:#FFE4EC; padding: 20px; border-radius: 10px; line-height: 1.6; color: #4B2C2C; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+  <strong>Hi there! I'm a <span style="color:#D36B8D;">Junior Java Backend Developer</span> 👩‍💻</strong><br><br>
+
+  I’m passionate about building <strong>reliable</strong>, <strong>scalable</strong>, and <strong>efficient</strong> server-side applications.  
+  My core stack includes:
+  <ul>
+    <li>☕ <strong>Java</strong></li>
+    <li>🌱 <strong>Spring Boot</strong></li>
+    <li>🔗 <strong>RESTful APIs</strong></li>
+    <li>🗄️ <strong>MySQL</strong></li>
+  </ul>
+
+  I’m a curious mind, always learning and exploring how technology can solve meaningful problems.  
+  I enjoy working on real-world projects and collaborating with others to create impactful solutions.
+  
+  <details>
+    <summary style="cursor: pointer; font-weight: bold; color:#A0522D;">📬 Let's connect!</summary>
+    <p>Feel free to check my portfolio or connect on LinkedIn!</p>
+  </details>
+</div>
+
+
 
 ## 🛠️ Skills
 
