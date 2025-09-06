@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=E65C9C&text=Hi%20I'm%20Issa%20-%20Java%20Backend%20Developer&fontColor=000000&fontSize=45" alt="Hi I'm Issa - Java Backend Developer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=E65C9C&text=Hi%20I'm%20Issa%20-%20Java%20Backend%20Developer&fontColor=000000&fontSize=40&animation=scaleIn" alt="Hi I'm Issa - Java Backend Developer" />
 </p>
 
 <p align="center">
