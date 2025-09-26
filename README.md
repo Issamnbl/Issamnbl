@@ -7,7 +7,7 @@
 
 ## 🔗 Links
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-6A0DAD?style=for-the-badge&logo=ko-fi&logoColor=white)](https://prinzisamanibale.com/) [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prinzisa-manibale-973583346/) [![email](https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:issamanibale@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6A0DAD?style=for-the-badge&logo=ko-fi&logoColor=white)](https://issa-manibale-website.vercel.app/) [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prinzisa-manibale-973583346/) [![email](https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:issamanibale@gmail.com)
 
 
 
